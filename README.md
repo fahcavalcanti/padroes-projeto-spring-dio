@@ -35,12 +35,23 @@ Siga as etapas abaixo para executar a aplicação:
 
 4. Execute a aplicação: `java -jar target/todolist-1.0.0.jar`
 
-A aplicação estará disponível em http://localhost:8080. Você pode acessar a API da aplicação para criar, listar e atualizar tarefas.
+A aplicação estará disponível em http://localhost:8080. Você pode acessar a API da aplicação para criar, listar e atualizar tarefas localmente.
 
 Cadastro de usuários (POST): http://localhost:8080/users/
 Cadastro de tarefas (POST): http://localhost:8080/tasks/
 Atualizar tarefas (PUT): http://localhost:8080/tasks/id-da-tarefa
 Listando tarefas (GET): http://localhost:8080/tasks/
+
+## Testar a aplicação
+A aplicação estará disponível em `https://todolist-rocket-ja89.onrender.com` 
+
+Você também poderá usar uma ferramenta para teste de API’s (APIDog, Postman, Swagger, SoapUI, Insomnia): Para criar, listar e atualizar tarefas, você precisará fazer um:
+
+POST p/ (Cadastro de usuários): https://todolist-rocket-ja89.onrender.com/users/
+POST p/ (Cadastro de tarefas): https://todolist-rocket-ja89.onrender.com/tasks/
+GET p/ (Listar tarefas): https://todolist-rocket-ja89.onrender.com/tasks/
+PUT p/ (Atualizar tarefas): https://todolist-rocket-ja89.onrender.com/tasks/id-da-tarefa-cadastrada
+(Obs: no PUT você precisará fornecer a id da tarefa cadastrada na url. Exemplo: https://todolist-rocket-ja89.onrender.com/tasks/a7845667-c66e-489a-bb9f-bb3f732acf9d).
 
 
 
