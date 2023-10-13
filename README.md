@@ -1,16 +1,16 @@
 # To-Do List App
 
-Este projeto é uma aplicação Java desenvolvida usando o framework Spring Boot, que permite que você gerencie suas tarefas de forma eficiente.
+Este projeto é uma aplicação Java, desenvolvida usando o framework Spring Boot, que permite que você gerencie suas tarefas de forma eficiente.
 
 ## Sobre o Projeto
 
-Este projeto é parte do curso Java oferecido pela Rocketseat, onde você aprende os fundamentos essenciais para iniciar um projeto, aprofundamento no Spring Boot, integração com bancos de dados, noções básicas de autenticação e muito mais.
+Este projeto é parte do Curso Gratuito de Java oferecido pela Rocketseat, onde você aprende os fundamentos essenciais para iniciar um projeto, aprofundamento no Spring Boot, integração com bancos de dados, noções básicas de autenticação e muito mais.
 
-Com base nos códigos fornecidos e nas aulas completas ministradas por Daniele Leão, você terá a oportunidade de criar um projeto de To-Do List do zero e aplicar os conceitos aprendidos no curso. O projeto inclui:
+Com base nas aulas ministradas pela Daniele Leão, criou-se um projeto de To-Do List do zero e aplicou-se os conceitos aprendidos no curso. O projeto inclui:
 
 - Gerenciamento de tarefas com descrição, título, data de início e término e prioridade.
-- Integração perfeita com bancos de dados para armazenar e recuperar tarefas.
-- Recursos de autenticação básica para proteger suas tarefas.
+- Integração com bancos de dados para armazenar e recuperar tarefas.
+- Recursos de autenticação básica para proteger as tarefas.
 
 ## Pré-requisitos
 
