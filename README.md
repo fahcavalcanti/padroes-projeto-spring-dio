@@ -1,4 +1,4 @@
-# To-Do List App
+# Aplicação To-Do List
 
 Este projeto é uma aplicação Java, desenvolvida usando o framework Spring Boot, que permite que você gerencie suas tarefas de forma eficiente.
 
